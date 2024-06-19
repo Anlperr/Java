@@ -24,3 +24,5 @@ Koda Letter Frequency Counter in User Input.java isimli dosyadan ulaşabilirsini
 Tanım:
 Bu program kullanıcıdan bir cümle ve belirli bir harf girmesini ister. Daha sonra seçilen harfin verilen cümlede kaç kez geçtiğini hesaplar ve sonucu görüntüler. Program kullanıcı dostu olarak tasarlanmış olup, kullanıcı tarafından sağlanan girdiler üzerinde basit bir döngü ve karşılaştırma işlemi gerçekleştirmektedir.
 *******************************************
+
+<img src="images/Letter Frequency Counter in User Input SS.png">
