@@ -25,9 +25,33 @@ Screenshot of the code
 
 <img src="images/Program to Find GCD and LCM.png">
 
+**************************************************************
+2-) Hypotenuse Calculation
+
+---TR---
+
+Proje Başlığı: 
+Hipotenüs Hesaplayıcı
+
+Proje Tanımı:
+Bu proje, kullanıcıdan dik üçgenin dik kenar uzunluklarını alarak hipotenüs uzunluğunu hesaplayan basit bir Java uygulamasıdır. Kullanıcı, program çalıştırıldığında sırasıyla birinci ve ikinci kenar uzunluklarını girer. Program, bu kenar uzunluklarının karelerinin toplamının karekökünü alarak hipotenüs uzunluğunu hesaplar ve sonucu ekrana yazdırır. Bu uygulama, Pisagor Teoremi'ni (a² + b² = c²) kullanarak hipotenüs hesaplamayı göstermektedir.
+
+---EN---
+
+Project Title: 
+Hypotenuse Calculator
+
+Project Description:
+This project is a simple Java application that calculates the hypotenuse length of a right triangle by taking the lengths of the two perpendicular sides from the user. When the program is run, the user is prompted to enter the lengths of the first and second sides, respectively. The program calculates the hypotenuse length by taking the square root of the sum of the squares of these side lengths and prints the result to the screen. This application demonstrates the use of the Pythagorean Theorem (a² + b² = c²) to calculate the hypotenuse.
+
+**********************
+Screenshot of the code
+**********************
+
+<img src="images/Hypotenuse Calculation SS.png">
 
 **************************************************************
-2-) Letter Frequency Counter in User Input
+3-) Letter Frequency Counter in User Input
 
 ---TR---
 
@@ -54,4 +78,3 @@ Screenshot of the code
 **********************
 
 <img src="images/Letter Frequency Counter in User Input SS.png">
-****************************************************************
