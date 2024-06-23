@@ -22,5 +22,3 @@ public class Main {
         System.out.println("Hipotenüs : " + c);
     }
 }
-
-
