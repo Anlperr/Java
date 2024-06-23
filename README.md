@@ -19,14 +19,14 @@ GCD and LCM Calculator
 Project Description:
 This project is a Java application that calculates the GCD (Greatest Common Divisor) and LCM (Least Common Multiple) of two integers entered by the user and displays the results on the screen.
 
-**********************
-Screenshot of the code
-**********************
+**************************************************************************
+Screenshot of the code : GCD and LCM Calculator (EBOB ve EKOK Hesaplayıcı)
+**************************************************************************
 
 <img src="images/Program to Find GCD and LCM.png">
 
 **************************************************************
-2-) Hypotenuse Calculation
+2-) Hypotenuse Calculator
 
 ---TR---
 
@@ -44,9 +44,9 @@ Hypotenuse Calculator
 Project Description:
 This project is a simple Java application that calculates the hypotenuse length of a right triangle by taking the lengths of the two perpendicular sides from the user. When the program is run, the user is prompted to enter the lengths of the first and second sides, respectively. The program calculates the hypotenuse length by taking the square root of the sum of the squares of these side lengths and prints the result to the screen. This application demonstrates the use of the Pythagorean Theorem (a² + b² = c²) to calculate the hypotenuse.
 
-**********************
-Screenshot of the code
-**********************
+**********************************************************************
+Screenshot of the code : Hypotenuse Calculator (Hipotenüs Hesaplayıcı)
+**********************************************************************
 
 <img src="images/Hypotenuse Calculation SS.png">
 
