@@ -1,5 +1,5 @@
 # Java
-This repository contains the Java language
+This repository contains entirely Java codes. (mini projects)
 ******************************************
 
 1-)
