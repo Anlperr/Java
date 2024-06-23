@@ -19,7 +19,7 @@ This program prompts the user to enter a sentence and a specific letter. It then
 Proje Başlığı:
 Kullanıcı Girişi ile Cümle İçindeki Harf Frekans Sayacı
 
-Koda Letter Frequency Counter in User Input isimli klasörden ulaşabilirsiniz.
+Koda, Letter Frequency Counter in User Input isimli klasörden ulaşabilirsiniz.
 
 Tanım:
 Bu program kullanıcıdan bir cümle ve belirli bir harf girmesini ister. Daha sonra seçilen harfin verilen cümlede kaç kez geçtiğini hesaplar ve sonucu görüntüler. Program kullanıcı dostu olarak tasarlanmış olup, kullanıcı tarafından sağlanan girdiler üzerinde basit bir döngü ve karşılaştırma işlemi gerçekleştirmektedir.
