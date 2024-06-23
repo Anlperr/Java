@@ -24,4 +24,4 @@ public class Main {
         // Harfin kaç kez geçtiğini ekrana yazdırıyoruz.
         System.out.println("Girilen cümlede " + letter + " harfi " + frekans + " kez geçmektedir.");
     }
-}
+} 
