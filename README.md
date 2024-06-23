@@ -1,6 +1,6 @@
-# Java
-This repository contains entirely Java codes. (mini projects)
-******************************************
+<h1>Java</h1>
+<h2>This repository contains entirely Java codes. (mini projects)</h2>
+<h2>You can access the codes of all projects. (project name and folder name are the same)</h2>
 <h1>1-) GCD and LCM Calculator </h1>
 
 <h3>---TR---</h3>
