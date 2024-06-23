@@ -1,7 +1,7 @@
 # Java
 This repository contains entirely Java codes. (mini projects)
 ******************************************
-1-) GCD and LCM Calculator
+<h1>1-) GCD and LCM Calculator </h1>
 
 ---TR---
 
